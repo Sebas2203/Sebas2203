@@ -36,7 +36,7 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -45,8 +45,6 @@
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
