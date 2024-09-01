@@ -17,6 +17,8 @@
 <hr>
 
 <h1>My Skills</h1>
+</div>
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzZ2J6aWpyZzlwYnhvMmxlZ3NtMXRkM3c4NndyZ3gwdjllMXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.webp" width="50"/>
 
 
@@ -106,8 +108,6 @@
 <hr>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJzaGNqOHJ2bHZ0Nzk5ZWJkbG90ajlzY2I0aTlmeTJic2VoOGhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHv2UNnoSFlFXsWk6A/giphy.webp" width="50"/>
-     
-</div>
 
 * Credit: [Sebastian Mora©](https://github.com/Sebas2203)
 * Last Edited on: 31/08/2024
