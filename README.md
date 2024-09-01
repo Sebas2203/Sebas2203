@@ -4,10 +4,11 @@
 
 ## My Skills 💻
 
-### 👉 Programming languages
+### 🚩Programming languages
 <img alt="React" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg">
 
-
+### 🚩Graphic Designing
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 
 <!--
