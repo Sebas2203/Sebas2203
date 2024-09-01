@@ -104,10 +104,7 @@
 <hr>
 
 ### 🎶 Music
-<br>
-<a href="https://open.spotify.com/playlist/1Co0EPBOwEq0rV1j5gEVdZ?si=1a6b1771985b473c" target="_blank"> 
-     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-</a>
+<a href="https://open.spotify.com/playlist/1Co0EPBOwEq0rV1j5gEVdZ?si=1a6b1771985b473c" target="_blank"> ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) </a>
 
 
 
