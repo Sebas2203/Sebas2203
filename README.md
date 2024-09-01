@@ -14,10 +14,9 @@
 </p>
 <hr>
 
-<div>
 <p style="font-size: 50px;">My Skills<p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzZ2J6aWpyZzlwYnhvMmxlZ3NtMXRkM3c4NndyZ3gwdjllMXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.webp" width="50"/>
-</div>
+
 
 ### 📋 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
