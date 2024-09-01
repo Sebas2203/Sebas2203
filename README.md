@@ -80,7 +80,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <hr>
 
-## My Hobbies 💻
+#My Hobbies 💻
 <hr>
 
 ### 🎶 Music
