@@ -15,7 +15,7 @@
 <hr>
 
 <div>
-## My Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U2d2xpOWp5ZHJyM2Q3dGo2Mms4M2NqMHF3OTV2NWticjJ6dTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.webp" width="1000" align="center/>
+## My Skills <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzZ2J6aWpyZzlwYnhvMmxlZ3NtMXRkM3c4NndyZ3gwdjllMXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.webp" width="50"/>
 </div>
 
 ### 📋 Languages
