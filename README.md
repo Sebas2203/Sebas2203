@@ -1,4 +1,5 @@
 <div align="center">
+     
 <h1 align="center">Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img alt="Hello World" src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" align = "center">
 <h4 align="center">I am a <strong>Software Engineering<strong> student at the Universidad Hispanoamericana de Costa Rica.<br>I have a great passion for programming, design, and learning. I love exploring new technologies and being part of projects</h4>
@@ -104,9 +105,9 @@
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 <hr>
 
-* Credit: [Sebastian Mora©](https://github.com/Sebas2203)
-* Last Edited on: 31/08/2024
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJzaGNqOHJ2bHZ0Nzk5ZWJkbG90ajlzY2I0aTlmeTJic2VoOGhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHv2UNnoSFlFXsWk6A/giphy.webp" width="50"/>
      
 </div>
+
+* Credit: [Sebastian Mora©](https://github.com/Sebas2203)
+* Last Edited on: 31/08/2024
