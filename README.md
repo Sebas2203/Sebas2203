@@ -3,6 +3,8 @@
 <h4 align="center">I am a student pursuing a degree in Software Engineering at Universidad Hispanoamericana in Costa Rica. I enjoy programming, designing, learning, and experimenting.</h4>
 <br>
 
+
+<!--
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -87,7 +89,7 @@
 
 * Credit: [Sebas2203](https://github.com/Sebas2203)
 * Last Edited on: 31/08/2024
-
+-->
 
 
 
