@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img alt="Hello World" src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" align = "center">
 <h4 align="center">I am a <strong>Software Engineering<strong> student at the Universidad Hispanoamericana de Costa Rica.<br>I have a great passion for programming, design, and learning. I love exploring new technologies and being part of projects</h4>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U2d2xpOWp5ZHJyM2Q3dGo2Mms4M2NqMHF3OTV2NWticjJ6dTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.webp" width="auto"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U2d2xpOWp5ZHJyM2Q3dGo2Mms4M2NqMHF3OTV2NWticjJ6dTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.webp" width="1000" align="center/>
 
 ### Connect with me:
 
