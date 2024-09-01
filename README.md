@@ -34,6 +34,7 @@
 <hr>
 
 ###💻 IDEs/Editors
+&emsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
@@ -46,6 +47,7 @@
 <hr>
 
 ###🎶 Music
+&emsp;
 <a href="https://open.spotify.com/playlist/1Co0EPBOwEq0rV1j5gEVdZ?si=1a6b1771985b473c" target="_blank"> 
      ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 </a>
