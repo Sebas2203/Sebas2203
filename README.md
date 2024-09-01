@@ -7,6 +7,10 @@
 
 ### 👉 Programming languages
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="React" src="https://badgen.net/react/:subject/:status/:blue?icon=react">
+   </a>
+&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
