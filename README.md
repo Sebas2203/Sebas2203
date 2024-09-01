@@ -2,14 +2,12 @@
 <h4 align="center">I am a student pursuing a degree in Software Engineering at Universidad Hispanoamericana in Costa Rica. I enjoy programming, designing, learning, and experimenting.</h4>
 <br>
 <hr>
-## Connect with me:
 
+### Connect with me:
 <p align = "center">
-
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sebastián-mora-628642298)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/sebas_2203/)
-
 </p>
 <hr>
 
