@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<p align = "center">
+<p align="center">
      
 <!--[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]()-->
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sebastián-mora-628642298)
@@ -106,7 +106,7 @@
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 <hr>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJzaGNqOHJ2bHZ0Nzk5ZWJkbG90ajlzY2I0aTlmeTJic2VoOGhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHv2UNnoSFlFXsWk6A/giphy.webp" width="50"/>
+<img align = "center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJzaGNqOHJ2bHZ0Nzk5ZWJkbG90ajlzY2I0aTlmeTJic2VoOGhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHv2UNnoSFlFXsWk6A/giphy.webp" width="50"/>
 
 * Credit: [Sebastian Mora©](https://github.com/Sebas2203)
 * Last Edited on: 31/08/2024
