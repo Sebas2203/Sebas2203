@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">I am a student pursuing a degree in Software Engineering at Universidad Hispanoamericana in Costa Rica. I enjoy programming, designing, learning, and experimenting.</h4>
 <img alt="Hello World" src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" align = "center">
+<h4 align="center">I am a <strong>Software Engineering<strong> student at the Universidad Hispanoamericana de Costa Rica.<br>I have a great passion for programming, design, and learning. I love exploring new technologies and being part of projects</h4>
 
 ### Connect with me:
 
