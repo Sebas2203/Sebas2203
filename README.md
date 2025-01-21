@@ -114,6 +114,3 @@
 * Credit: [Sebastian Mora©](https://github.com/Sebas2203)
 * Last Edited on: January 2025
 
-<div align="center">
-     <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJzaGNqOHJ2bHZ0Nzk5ZWJkbG90ajlzY2I0aTlmeTJic2VoOGhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHv2UNnoSFlFXsWk6A/giphy.webp" width="150"/>
-</div>
