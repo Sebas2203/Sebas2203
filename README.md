@@ -1,9 +1,9 @@
 <div align="center">
      
 <h1 align="center">Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzZ2J6aWpyZzlwYnhvMmxlZ3NtMXRkM3c4NndyZ3gwdjllMXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.webp" width="250"/>
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzZ2J6aWpyZzlwYnhvMmxlZ3NtMXRkM3c4NndyZ3gwdjllMXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.webp" width="250"/> -->
 <!--<img alt="Hello World" src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" align = "center"> -->
-<h4 align="center">Developer specialized in Backend and Data Bases. Expert in developing REST APIs, CRUD, MVC, data modeling, and the design and optimization of SQL and NoSQL databases. I am familiar with systems such as Oracle SQL, MySQL, SQL Server, and MongoDB, with experience in advanced queries, normalization, and efficient schema design. Passionate about writing clean and scalable code, promoting quality standards, and mentoring teams. I also have a deep interest in modern design patterns, ensuring solutions aligned with business objectives and continuous improvement in technological development.</h4>
+<h4 align="center">I am a developer with experience in frontend, backend, and database management. I am skilled in modern frameworks, API development, and optimizing database performance. I am passionate about building scalable and user-friendly web applications</h4>
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U2d2xpOWp5ZHJyM2Q3dGo2Mms4M2NqMHF3OTV2NWticjJ6dTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.webp" width="1000" align="center/> -->
 
 ### Connect with me:
