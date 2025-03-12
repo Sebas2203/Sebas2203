@@ -37,7 +37,6 @@ Me encanta colaborar en proyectos Open Source y compartir soluciones con la comu
 -->
 
 ## 📬 Connect with me
-- 🐦 [Twitter](https://x.com/speedboy_22)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-mora-628642298/)
 - 📧 Email: [sebastian.mora0858@gmail.com](sebastian.mora0858@gmail.com)
 
