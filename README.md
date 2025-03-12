@@ -1,9 +1,9 @@
 # 👨‍💻 Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Backend Developer | Node.js | APIs | Open Source | Data Base | JavaScript
 
-## 🌟 Sobre mí
+## 🌟 About me
 Hello! I am a backend developer passionate about creating scalable and efficient solutions. I specialize in developing APIs, databases, and contributing to Open Source. I am always looking to improve my skills and share knowledge with the community.
 
-## 🚀 Habilidades principales
+## 🚀 Skills
 - **Backend Development:** , Express.js, NestJS
 - **APIs:** RESTful, GraphQL, WebSockets
 - **Data Base:** PostgreSQL, MySQL, MongoDB
