@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Social Media
-![Instagram]((https://img.shields.io/badge/<sebas_2203>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>)(https://www.instagram.com/sebas_2203/))
+![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 [Sebastian Mora©](https://github.com/Sebas2203)
 
