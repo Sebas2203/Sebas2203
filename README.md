@@ -1,5 +1,5 @@
 # <h1>Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>I am a developer with experience in frontend, backend, and database management. I am skilled in modern frameworks, API development, and optimizing database performance. I am passionate about building scalable and user-friendly web applications</p>
+<p>I am a developer with experience in backend, and database management. I am skilled in modern frameworks, API development, and optimizing database performance. I am passionate about building scalable and user-friendly web applications</p>
 
 ### 📋 Languages
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=whit)
@@ -26,8 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Social Media
+![Instagram]((https://img.shields.io/badge/<sebas_2203>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>)(https://www.instagram.com/sebas_2203/))
 
-
-* Credit: [Sebastian Mora©](https://github.com/Sebas2203)
-* Last Edited on: January 2025
+[Sebastian Mora©](https://github.com/Sebas2203)
 
