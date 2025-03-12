@@ -1,6 +1,6 @@
 # <h1>Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## I am a developer with experience in frontend, backend, and database management. I am skilled in modern frameworks, API development, and optimizing database performance. I am passionate about building scalable and user-friendly web applications
+<p>I am a developer with experience in frontend, backend, and database management. I am skilled in modern frameworks, API development, and optimizing database performance. I am passionate about building scalable and user-friendly web applications</p>
 
 
 
