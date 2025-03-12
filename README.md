@@ -30,3 +30,50 @@
 
 [Sebastian Mora©](https://github.com/Sebas2203)
 
+-----------------------------
+# 👨‍💻 <h1>Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> Desarrollador Backend | APIs | Open Source | Bases de Datos | Node.js | JavaScript
+
+## 🌟 Sobre mí
+Hello! I am a backend developer passionate about creating scalable and efficient solutions. I specialize in developing APIs, databases, and contributing to Open Source. I am always looking to improve my skills and share knowledge with the community.
+
+## 🚀 Habilidades principales
+- **Backend Development:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white), Express.js, NestJS
+- **APIs:** RESTful, GraphQL, WebSockets
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB
+- **Autenticación & Seguridad:** JWT, OAuth, Passport.js
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD
+- **Testing & Calidad:** Jest, Mocha, Chai, Postman
+- **Open Source:** Contribuciones en GitHub, proyectos comunitarios
+
+## 🔥 Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📂 Proyectos Destacados
+### 1️⃣ **API de Gestión de Usuarios**
+📌 *Descripción:* API RESTful para gestionar usuarios con autenticación JWT y roles.  
+🔧 *Tecnologías:* Node.js, Express, PostgreSQL, JWT  
+📎 [Repositorio](https://github.com/tuusuario/api-gestion-usuarios)
+
+### 2️⃣ **Sistema de Notificaciones WebSockets**
+📌 *Descripción:* Microservicio para envío de notificaciones en tiempo real.  
+🔧 *Tecnologías:* Node.js, WebSockets, Redis  
+📎 [Repositorio](https://github.com/tuusuario/notificaciones-websockets)
+
+## 💡 Contribuciones Open Source
+Me encanta colaborar en proyectos Open Source y compartir soluciones con la comunidad. Puedes ver mis contribuciones en [GitHub](https://github.com/tuusuario).
+
+## 📬 Conéctate conmigo
+- 🐦 [Twitter](https://twitter.com/tuusuario)
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 Email: [correo@ejemplo.com](mailto:correo@ejemplo.com)
+
+---
+¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones. 🚀
+
+
