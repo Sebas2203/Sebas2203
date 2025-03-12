@@ -7,7 +7,7 @@ Hello! I am a backend developer passionate about creating scalable and efficient
 - **Backend Development:** , Express.js, NestJS
 - **APIs:** RESTful, GraphQL, WebSockets
 - **Data Base:** Oracle, MySQL, MongoDB
-- **Authentication & Security::** JWT, OAuth, Passport.js
+- **Authentication & Security:** JWT, OAuth, Passport.js
 - **Testing & Calidad:** Jest, Mocha, Chai, Postman
 - **Open Source:** Contributions on GitHub, community projects
 
