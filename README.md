@@ -1,4 +1,4 @@
-# 👨‍💻 <h1>Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> Desarrollador Backend | APIs | Open Source | Bases de Datos | Node.js | JavaScript
+# 👨‍💻 Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Backend Developer | Node.js | APIs | Open Source | Data Base | JavaScript
 
 ## 🌟 Sobre mí
 Hello! I am a backend developer passionate about creating scalable and efficient solutions. I specialize in developing APIs, databases, and contributing to Open Source. I am always looking to improve my skills and share knowledge with the community.
