@@ -1,3 +1,82 @@
+<h1 align="center">Hola, soy Sebastián Mora 👋</h1>
+
+<p align="center">
+  Estudiante de Ingeniería Informática apasionado por el desarrollo Backend,<br/>
+  la construcción de APIs robustas y los sistemas embebidos.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebasmora0858/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sebastián%20Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sebastian.mora0858@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sebastian.mora0858@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sebas2203" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sebas2203-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🙋‍♂️ Sobre mí
+
+- 🎓 Estudiante de **Ingeniería Informática**
+- 💻 Enfocado en **desarrollo Backend** con Node.js, Express y Python
+- 🗄️ Me apasiona el diseño y optimización de **bases de datos relacionales**
+- 🔌 Entusiasta de los **microcontroladores** y sistemas embebidos (hobby)
+- 🌱 Actualmente mejorando mis habilidades en **arquitectura de APIs REST** y **Docker**
+- 🚀 Buscando mi primer oportunidad profesional en el mundo del desarrollo de software
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend & General
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Hardware & Embebidos
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebas2203&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas2203&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📌 Proyectos destacados
+
+> 🚧 *Próximamente — estoy construyendo mis primeros proyectos de portfolio.*
+
+---
+
+## 📫 Contacto
+
+¿Tienes algún proyecto o oportunidad interesante? ¡Me encantaría conversar!
+
+- 📧 [sebastian.mora0858@gmail.com](mailto:sebastian.mora0858@gmail.com)
+- 💼 [linkedin.com/in/sebasmora0858](https://www.linkedin.com/in/sebasmora0858/)
+
+
+
+<!--
+
 # 👨‍💻 Hi, I'm Sebastian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Backend Developer | Node.js | APIs | Open Source | Data Base | JavaScript
 
 ## 🌟 About me
@@ -34,7 +113,7 @@ Hello! I am a backend developer passionate about creating scalable and efficient
 
 ## 💡 Contribuciones Open Source
 Me encanta colaborar en proyectos Open Source y compartir soluciones con la comunidad. Puedes ver mis contribuciones en [GitHub](https://github.com/tuusuario).
--->
+
 
 ## 📬 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-mora-628642298/)
@@ -43,3 +122,4 @@ Me encanta colaborar en proyectos Open Source y compartir soluciones con la comu
 ---
 Thanks for visiting my profile! I am always open to new opportunities and collaborations. 🚀
 [Sebastian Mora©](https://github.com/Sebas2203)
+-->
