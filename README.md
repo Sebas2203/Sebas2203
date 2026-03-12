@@ -57,6 +57,7 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 <td valign="top" width="45%" align="center">
 
 <img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="100%" alt="Initial D RX-7"/>
+<img src="https://media.giphy.com/media/XvVfKCncJIOY/giphy.gif" width="100%" alt="Initial D Subaru GC8"/>
 
 </td>
 </tr>
