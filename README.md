@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="480" alt="Initial D RX-7"/>
-
-# Hi, I'm Sebastian 👋
+# Hi, I'm Sebastian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 **Backend Developer · Costa Rica 🇨🇷 · sebas2203**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="480" alt="Initial D RX-7"/>
 
 </div>
 
@@ -14,22 +14,9 @@
 
 ### 👨‍💻 Software Engineer
 
-Backend developer con pasión por construir sistemas robustos, APIs limpias y arquitecturas que escalan. Me gusta entender el problema antes de escribir la primera línea de código — y cuando el código está corriendo, probablemente estoy en el garage pensando en carros o soldando algún circuito.
+Backend developer passionate about building robust systems, clean APIs, and architectures that scale. I like to understand the problem before writing the first line of code — and when the code is running, I'm probably in the garage thinking about cars or soldering some circuit.
 
-Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* hace lo que hace. Eso aplica igual para el software que para tunear un motor.
-
----
-
-### 📊 Race Stats — GitHub
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
-
-</div>
+I believe a good engineer doesn't just know how to code, but understands *why* they do what they do. That applies equally to software and to tuning an engine.
 
 ---
 
@@ -37,7 +24,7 @@ Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* h
 
 ```json
 {
-  "name": "Sebastian",
+  "name": "Sebastian Mora",
   "alias": "sebas2203",
   "role": "Backend Developer",
   "location": "Costa Rica 🇨🇷",
@@ -47,7 +34,6 @@ Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* h
   "favorite_anime": "Initial D 🚗💨",
   "dream_car": "Subaru Impreza GC8 🫶",
   "fuel": "☕ Coffee + eurobeat",
-  "driving_style": "Takumi-mode — smooth, fast, no mistakes",
   "status": "Pushing code like Takumi pushes the AE86 downhill 🏁"
 }
 ```
@@ -70,9 +56,11 @@ Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* h
 
 <div align="center">
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
@@ -83,6 +71,18 @@ Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* h
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
+
+### 🧰 Workspace & Productivity
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -108,26 +108,36 @@ Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* h
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ### 📬 Find Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-E8B84B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebasmora0858-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasmora0858/)
+[![Instagram](https://img.shields.io/badge/Instagram-sebas__2203-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebas_2203/)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=E8B84B&style=for-the-badge&label=👀+visitors)
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=CE1126&style=for-the-badge&label=👀+visitors)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=CE1126&center=true&vCenter=true&multiline=true&width=620&height=30&lines=My+code+hits+production+the+same+way" alt="line1"/>
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=555555&center=true&vCenter=true&multiline=true&width=620&height=30&lines=Takumi+takes+the+downhill" alt="line2"/>
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=002B7F&center=true&vCenter=true&multiline=true&width=620&height=30&lines=fast%2C+clean%2C+no+mistakes.+%F0%9F%9A%97%F0%9F%92%A8" alt="line3"/>
-
-<br/>
 
 *Thanks for visiting — Pura Vida!*
 
