@@ -6,7 +6,23 @@
 
 **Backend Developer · Costa Rica 🇨🇷 · sebas2203**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=E8B84B&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 👨‍💻 Software Engineer
+
+Backend developer con pasión por construir sistemas robustos, APIs limpias y arquitecturas que escalan. Me gusta entender el problema antes de escribir la primera línea de código — y cuando el código está corriendo, probablemente estoy en el garage pensando en carros o soldando algún circuito.
+
+Creo que un buen engineer no solo sabe programar, sino que entiende *por qué* hace lo que hace. Eso aplica igual para el software que para tunear un motor.
+
+---
+
+### 📊 Race Stats — GitHub
+
+<div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
