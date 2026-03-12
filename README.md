@@ -1,22 +1,6 @@
 <div align="center">
 
-```
-                 _.--._
-           _ _,'      `.
-         ,' `  `'-.      `.
-        /  ,'       `-.    \
-       / ,'     __    _`-.  \
-      / /     ,'  `._/ `-. \ |
-     | |     /  .-'`-.    | ||
-     | |    / .'  ___  `.  | ||
-     | |   / /  ,'   `. |  | ||
-      \ \ | | ,'  ,--. \| | / /
-       \ \| |/ _,'    `._\|/ /
-        `._\|/.'  _,-.   `._.'
-            `'   / |  \
-                 `-'  `-'
-         ≈ bulbasaur used vine whip ≈
-```
+<img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="480" alt="Initial D RX-7"/>
 
 # Hi, I'm Sebastian 👋
 
@@ -130,19 +114,13 @@
 <div align="center">
 
 ```
-          \/      \/
-         /\_\    /_/\
-        / / \ \  / /\ \
-       / /   \ \/ /  \ \
-      /_/     \__/    \_\
-      ‾‾  pikachu used  ‾‾
-         thunderbolt! ⚡
+  My code hits production the same way Takumi
+  takes the downhill — fast, clean, no mistakes. 🚗💨
 ```
 
 *Thanks for visiting — Pura Vida! 🇨🇷*
 
 </div>
-
 
 
 
