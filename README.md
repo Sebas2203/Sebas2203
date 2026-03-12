@@ -1,11 +1,28 @@
 <div align="center">
 
-<!-- HEADER: Bandera CR + nombre sobre imagen -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:CE1126,30:CE1126,45:FFFFFF,55:FFFFFF,70:002B7F,100:002B7F&height=250&section=header&text=Sebastian&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=sebas2203%20%7C%20Backend%20Developer%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=65&descSize=20&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
+```
+                 _.--._
+           _ _,'      `.
+         ,' `  `'-.      `.
+        /  ,'       `-.    \
+       / ,'     __    _`-.  \
+      / /     ,'  `._/ `-. \ |
+     | |     /  .-'`-.    | ||
+     | |    / .'  ___  `.  | ||
+     | |   / /  ,'   `. |  | ||
+      \ \ | | ,'  ,--. \| | / /
+       \ \| |/ _,'    `._\|/ /
+        `._\|/.'  _,-.   `._.'
+            `'   / |  \
+                 `-'  `-'
+         ≈ bulbasaur used vine whip ≈
+```
 
-<br/>
+# Hi, I'm Sebastian 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=19&pause=900&color=CE1126&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%F0%9F%96%A5%EF%B8%8F;Building+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
+**Backend Developer · Costa Rica 🇨🇷 · sebas2203**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=580&lines=Building+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +36,7 @@
   "alias": "sebas2203",
   "role": "Backend Developer",
   "location": "Costa Rica 🇨🇷",
-  "languages": ["Node.js", "Python"],
+  "stack": ["Node.js", "Python"],
   "passionate_about": ["APIs", "Server Architecture", "Clean Code"],
   "hobbies": ["⚡ Arduino", "📡 ESP32", "🍓 Raspberry Pi", "🔌 IoT & Electronics"],
   "fuel": "☕ Coffee",
@@ -30,7 +47,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Backend & Languages
 
 <div align="center">
 
@@ -39,9 +56,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### 🐳 DevOps & Tools
+
+<div align="center">
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -50,17 +81,17 @@
 
 ---
 
-### ⚡ Hardware & IoT — My Hobby Lab
-
-<div align="center">
+### ⚡ Hardware & IoT — Hobby Lab
 
 > *"When I'm not coding APIs, I'm wiring circuits."* 🔌
+
+<div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-| Device | What I do with it |
+| Device | What I use it for |
 |--------|-------------------|
 | 🟢 Arduino | Sensors, prototyping, automation |
 | 🔴 ESP32 | WiFi-connected IoT projects |
@@ -75,7 +106,6 @@
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=CE1126&icon_color=002B7F&text_color=333333&bg_color=FFF5F5"/>
-
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=CE1126&text_color=333333&bg_color=FFF5F5"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=FFF5F5&ring=CE1126&fire=FF6B00&currStreakLabel=CE1126&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
@@ -91,8 +121,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sebas2203-CE1126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-002B7F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
 
-<br/>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=CE1126&style=for-the-badge&label=👀+visitors)
 
 </div>
@@ -100,8 +128,23 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B7F,50:FFFFFF,100:CE1126&height=120&section=footer&animation=fadeIn"/>
+
+```
+          \/      \/
+         /\_\    /_/\
+        / / \ \  / /\ \
+       / /   \ \/ /  \ \
+      /_/     \__/    \_\
+      ‾‾  pikachu used  ‾‾
+         thunderbolt! ⚡
+```
+
+*Thanks for visiting — Pura Vida! 🇨🇷*
+
 </div>
+
+
+
 
 <!--
 <h1>
