@@ -1,46 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1484D6,40:3DAAED,60:6DC8F3,100:1484D6&height=220&section=header&text=Hi!+I%27m+Sebastian+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8+Backend+Developer+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
+<!-- HEADER: Bandera CR + nombre sobre imagen -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:CE1126,30:CE1126,45:FFFFFF,55:FFFFFF,70:002B7F,100:002B7F&height=250&section=header&text=Sebastian&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=sebas2203%20%7C%20Backend%20Developer%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=65&descSize=20&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=20&pause=900&color=1484D6&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%F0%9F%96%A5%EF%B8%8F;I+build+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs+%7C+IoT;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Costa+Rica+represent+%F0%9F%87%A8%F0%9F%87%B7%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=19&pause=900&color=CE1126&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%F0%9F%96%A5%EF%B8%8F;Building+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ### 🖥️ About Me
 
 > Like a Windows XP boot — reliable, fast, and gets the job done.
 
-- 🌍 **Costa Rica** 🇨🇷
+- 🌍 **Costa Rica** 🇨🇷 — *Pura Vida!*
 - 💼 **Backend Developer**
 - ⚡ **Node.js** & **Python** enthusiast
 - 🤖 Hardware hobbyist — Arduino, ESP32, Raspberry Pi
 - ☕ Powered by coffee & curiosity
 - 🎯 Currently: building cool server-side stuff
-
-</td>
-<td width="45%" valign="top" align="center">
-
-### 🌐 Online Status
-
-```
-┌──────────────────────┐
-│  sebas2203.exe       │
-│  ● ONLINE            │
-│  📡 Costa Rica       │
-│  🕹️  Backend Mode    │
-│  🔋 Battery: 100%    │
-└──────────────────────┘
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -88,11 +68,11 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=1484D6&icon_color=3DAAED&text_color=333333&bg_color=EEF7FE"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=CE1126&icon_color=002B7F&text_color=333333&bg_color=FFF5F5"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=1484D6&text_color=333333&bg_color=EEF7FE"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=CE1126&text_color=333333&bg_color=FFF5F5"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=EEF7FE&ring=1484D6&fire=FF6B00&currStreakLabel=1484D6&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=FFF5F5&ring=CE1126&fire=FF6B00&currStreakLabel=CE1126&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,19 +82,19 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-1484D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-CE1126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-002B7F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=1484D6&style=for-the-badge&label=👀+visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=CE1126&style=for-the-badge&label=👀+visitors)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1484D6,40:3DAAED,60:6DC8F3,100:1484D6&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B7F,50:FFFFFF,100:CE1126&height=120&section=footer&animation=fadeIn"/>
 </div>
 
 
