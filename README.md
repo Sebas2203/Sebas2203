@@ -54,13 +54,9 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="45%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B"/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
+<img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="100%" alt="Initial D RX-7"/>
 
 </td>
 </tr>
