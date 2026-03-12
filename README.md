@@ -1,165 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1484D6,40:3DAAED,60:6DC8F3,100:1484D6&height=220&section=header&text=Hi!+I%27m+Sebastian+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8+Backend+Developer+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                            ▓
-▓   ██████╗ ██████╗  ██╗   ██╗ ████████╗ ███████╗           ▓
-▓   ██╔══██╗██╔══██╗ ██║   ██║ ╚══██╔══╝ ██╔════╝           ▓
-▓   ██████╔╝██████╔╝ ██║   ██║    ██║    █████╗             ▓
-▓   ██╔══██╗██╔══██╗ ██║   ██║    ██║    ██╔══╝             ▓
-▓   ██████╔╝██║  ██║ ╚██████╔╝    ██║    ███████╗           ▓
-▓   ╚═════╝ ╚═╝  ╚═╝  ╚═════╝     ╚═╝    ╚══════╝           ▓
-▓                                                            ▓
-▓          [ SEBAS2203 ] :: BACKEND DEVELOPER                ▓
-▓          [ LOCATION  ] :: COSTA RICA  🇨🇷                  ▓
-▓          [ STATUS    ] :: ONLINE ●                         ▓
-▓                                                            ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=620&lines=%3E+Initializing+sebas2203.exe...;%3E+Loading+backend+modules...+%5BOK%5D;%3E+Node.js+%2B+Python+detected...+%5BOK%5D;%3E+Costa+Rica+timezone+synced...+%5BOK%5D;%3E+Arduino+%2F+ESP32+%2F+RPi+online...+%5BOK%5D;%3E+Ready+to+deploy+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=20&pause=900&color=1484D6&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%F0%9F%96%A5%EF%B8%8F;I+build+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs+%7C+IoT;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Costa+Rica+represent+%F0%9F%87%A8%F0%9F%87%B7%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🖥️ About Me
+
+> Like a Windows XP boot — reliable, fast, and gets the job done.
+
+- 🌍 **Costa Rica** 🇨🇷
+- 💼 **Backend Developer**
+- ⚡ **Node.js** & **Python** enthusiast
+- 🤖 Hardware hobbyist — Arduino, ESP32, Raspberry Pi
+- ☕ Powered by coffee & curiosity
+- 🎯 Currently: building cool server-side stuff
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### 🌐 Online Status
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  C:\Users\sebas2203> cat profile.txt                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME     ::  Sebastian                                      ║
-║  HANDLE   ::  sebas2203                                      ║
-║  ROLE     ::  Backend Developer                              ║
-║  ORIGIN   ::  Costa Rica 🇨🇷                                 ║
-║  MISSION  ::  Build APIs that never crash                    ║
-║  FUEL     ::  ☕ Coffee.exe                                  ║
-║                                                              ║
-║  HOBBIES  ::  ⚡ Microcontrollers & Electronics              ║
-║               🤖 Arduino — ESP32 — Raspberry Pi             ║
-║               🔌 Making hardware obey software               ║
-║                                                              ║
-║  QUOTE    ::  "The best backend is the one                   ║
-║                nobody knows exists."                         ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────┐
+│  sebas2203.exe       │
+│  ● ONLINE            │
+│  📡 Costa Rica       │
+│  🕹️  Backend Mode    │
+│  🔋 Battery: 100%    │
+└──────────────────────┘
 ```
 
-<br/>
+</td>
+</tr>
+</table>
 
-<!-- ═══════════════ STACK ═══════════════ -->
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────┐
-│   >> TECH_STACK.exe  [LOADING... ████]  │
-└─────────────────────────────────────────┘
-```
-
-**[ BACKEND ]**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**[ DATABASE ]**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**[ DEVOPS ]**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**[ HARDWARE / IoT ]**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ HARDWARE ═══════════════ -->
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  >> HOBBY_MODE.exe — Hardware Lab 🔧                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [■■■■■■■■■■] Arduino       — Prototyping & sensors         ║
-║  [■■■■■■■■░░] ESP32          — WiFi + IoT projects          ║
-║  [■■■■■■░░░░] Raspberry Pi   — Mini servers & automation    ║
-║                                                              ║
-║  → When the code compiles, I solder something.              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
+### ⚡ Hardware & IoT — My Hobby Lab
 
 <div align="center">
 
-```
-┌───────────────────────────────────┐
-│   >> GITHUB_STATS.exe             │
-└───────────────────────────────────┘
-```
+> *"When I'm not coding APIs, I'm wiring circuits."* 🔌
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000033&title_color=00FFFF&icon_color=00FFFF&text_color=AAAAFF"/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true&bg_color=000033&title_color=00FFFF&text_color=AAAAFF"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&theme=ocean-gradient&hide_border=true&background=000033&ring=00FFFF&fire=FF6600&currStreakLabel=00FFFF&sideLabels=AAAAFF&dates=AAAAFF)](https://git.io/streak-stats)
+| Device | What I do with it |
+|--------|-------------------|
+| 🟢 Arduino | Sensors, prototyping, automation |
+| 🔴 ESP32 | WiFi-connected IoT projects |
+| 🍓 Raspberry Pi | Mini servers, home automation |
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  >> NETWORK.exe — Connecting...                             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [ GitHub  ]  →  github.com/sebas2203                       ║
-║  [ LinkedIn]  →  linkedin.com/in/sebas2203                  ║
-║                                                              ║
-║  ping sebas2203 — response time: fast ⚡                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-00FFFF?style=flat-square&logo=github&logoColor=white&labelColor=000033)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=000033)](https://linkedin.com/in/sebas2203)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=1484D6&icon_color=3DAAED&text_color=333333&bg_color=EEF7FE"/>
 
-<br/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=1484D6&text_color=333333&bg_color=EEF7FE"/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=00FFFF&labelColor=000033&style=flat-square&label=visitors)
-
-```
-[ SYSTEM UPTIME: sebas2203 still online 🇨🇷 — Costa Rica ]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12&section=footer"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=EEF7FE&ring=1484D6&fire=FF6B00&currStreakLabel=1484D6&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
+---
+
+### 📬 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-1484D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=1484D6&style=for-the-badge&label=👀+visitors)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1484D6,40:3DAAED,60:6DC8F3,100:1484D6&height=120&section=footer&animation=fadeIn"/>
+</div>
 
 
 <!--
