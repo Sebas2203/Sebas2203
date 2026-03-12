@@ -12,9 +12,7 @@
 
 ### 👨‍💻 Software Engineer
 
-Backend developer passionate about building robust systems, clean APIs, and architectures that scale. I like to understand the problem before writing the first line of code — and when the code is running, I'm probably in the garage thinking about cars or soldering some circuit.
-
-I believe a good engineer doesn't just know how to code, but understands *why* they do what they do. That applies equally to software and to tuning an engine.
+Backend developer focused on building clean APIs, robust systems, and architectures that scale. I like to understand the problem before writing the first line of code 
 
 ---
 
@@ -162,6 +160,7 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 ![Profile Views](https://komarev.com/ghpvc/?username=sebas2203&color=CE1126&style=for-the-badge&label=PROFILE+VIEWS)
  
 </div>
+
 ---
 
 <div align="center">
