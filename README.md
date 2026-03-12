@@ -150,15 +150,16 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
  
 <div align="center">
  
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Mora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/sebasmora0858/)
-[![Instagram](https://img.shields.io/badge/Instagram-sebas__2203-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/sebas_2203/)
-[![Gmail](https://img.shields.io/badge/Gmail-sebastian.mora0858-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sebastian.mora0858@gmail.com)
+| | Platform | Username | Link |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=github" width="35"/> | GitHub | sebas2203 | [github.com/sebas2203](https://github.com/sebas2203) |
+| <img src="https://skillicons.dev/icons?i=linkedin" width="35"/> | LinkedIn | Sebastian Mora | [linkedin.com/in/sebasmora0858](https://www.linkedin.com/in/sebasmora0858/) |
+| <img src="https://skillicons.dev/icons?i=instagram" width="35"/> | Instagram | sebas_2203 | [instagram.com/sebas_2203](https://www.instagram.com/sebas_2203/) |
+| <img src="https://skillicons.dev/icons?i=gmail" width="35"/> | Gmail | sebastian.mora0858 | [sebastian.mora0858@gmail.com](mailto:sebastian.mora0858@gmail.com) |
  
 <br/>
  
-![](https://img.shields.io/badge/-%3E%20sebas2203.exe%20--visitors-000000?style=for-the-badge&logoColor=00FF00&labelColor=000000&color=000000)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=00FF00&labelColor=000000&style=for-the-badge&label=📡%20connections%20established)
+![Profile Views](https://komarev.com/ghpvc/?username=sebas2203&color=CE1126&style=for-the-badge&label=PROFILE+VIEWS)
  
 </div>
 ---
