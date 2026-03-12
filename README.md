@@ -6,13 +6,13 @@
 
 **Backend Developer · Costa Rica 🇨🇷 · sebas2203**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=580&lines=Building+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=E8B84B&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🖥️ About Me
+### 🚗 About Me
 
 ```json
 {
@@ -21,11 +21,13 @@
   "role": "Backend Developer",
   "location": "Costa Rica 🇨🇷",
   "stack": ["Node.js", "Python"],
-  "passionate_about": ["APIs", "Server Architecture", "Clean Code"],
+  "passionate_about": ["APIs", "Server Architecture", "Clean Code", "Cars 🚗"],
   "hobbies": ["⚡ Arduino", "📡 ESP32", "🍓 Raspberry Pi", "🔌 IoT & Electronics"],
-  "fuel": "☕ Coffee",
-  "quote": "Like a Windows XP boot — reliable, fast, and gets the job done.",
-  "status": "Building cool server-side stuff 🚀"
+  "favorite_anime": "Initial D 🚗💨",
+  "dream_car": "Mazda RX-7 FC3S",
+  "fuel": "☕ Coffee + eurobeat",
+  "driving_style": "Takumi-mode — smooth, fast, no mistakes",
+  "status": "Pushing code like Takumi pushes the AE86 downhill 🏁"
 }
 ```
 
@@ -65,9 +67,9 @@
 
 ---
 
-### ⚡ Hardware & IoT — Hobby Lab
+### ⚡ Hardware & IoT — Pit Stop Lab
 
-> *"When I'm not coding APIs, I'm wiring circuits."* 🔌
+> *"Every great driver knows their machine. Every great dev knows their hardware."* 🔧
 
 <div align="center">
 
@@ -85,14 +87,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Race Stats — GitHub
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=CE1126&icon_color=002B7F&text_color=333333&bg_color=FFF5F5"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=CE1126&text_color=333333&bg_color=FFF5F5"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=FFF5F5&ring=CE1126&fire=FF6B00&currStreakLabel=CE1126&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,10 +104,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-CE1126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-002B7F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-E8B84B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=CE1126&style=for-the-badge&label=👀+visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=E8B84B&style=for-the-badge&label=👀+visitors)
 
 </div>
 
