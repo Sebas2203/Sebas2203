@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sebastian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Sebastian 👋
 
 **Backend Developer · Costa Rica 🇨🇷 · sebas2203**
 
@@ -22,6 +22,10 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 
 ### 🚗 About Me
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```json
 {
   "name": "Sebastian Mora",
@@ -29,14 +33,38 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
   "role": "Backend Developer",
   "location": "Costa Rica 🇨🇷",
   "stack": ["Node.js", "Python"],
-  "passionate_about": ["APIs", "Server Architecture", "Clean Code", "Cars 🚗"],
-  "hobbies": ["⚡ Arduino", "📡 ESP32", "🍓 Raspberry Pi", "🔌 IoT & Electronics"],
+  "passionate_about": [
+    "APIs",
+    "Server Architecture",
+    "Clean Code",
+    "Cars 🚗"
+  ],
+  "hobbies": [
+    "⚡ Arduino",
+    "📡 ESP32",
+    "🍓 Raspberry Pi",
+    "🔌 IoT & Electronics"
+  ],
   "favorite_anime": "Initial D 🚗💨",
   "dream_car": "Subaru Impreza GC8 🫶",
   "fuel": "☕ Coffee + eurobeat",
-  "status": "Pushing code like Takumi pushes the AE86 downhill 🏁"
+  "status": "Pushing code like Takumi
+             pushes the AE86 downhill 🏁"
 }
 ```
+
+</td>
+<td valign="top" width="45%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,26 +136,14 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 📬 Find Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebasmora0858-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasmora0858/)
-[![Instagram](https://img.shields.io/badge/Instagram-sebas__2203-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebas_2203/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sebas2203)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebasmora0858/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sebas_2203/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebastian.mora0858@gmail.com)
 
 <br/>
 
@@ -146,7 +162,6 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1280px-Flag_of_Costa_Rica.svg.png" width="480" alt="Bandera de Costa Rica 🇨🇷"/>
 
 </div>
-
 
 
 <!--
