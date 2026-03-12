@@ -8,6 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=E8B84B&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
 
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -24,7 +29,7 @@
   "passionate_about": ["APIs", "Server Architecture", "Clean Code", "Cars 🚗"],
   "hobbies": ["⚡ Arduino", "📡 ESP32", "🍓 Raspberry Pi", "🔌 IoT & Electronics"],
   "favorite_anime": "Initial D 🚗💨",
-  "dream_car": "Mazda RX-7 FC3S",
+  "dream_car": "Subaru Impreza GC8 🫶",
   "fuel": "☕ Coffee + eurobeat",
   "driving_style": "Takumi-mode — smooth, fast, no mistakes",
   "status": "Pushing code like Takumi pushes the AE86 downhill 🏁"
@@ -69,7 +74,7 @@
 
 ### ⚡ Hardware & IoT — Pit Stop Lab
 
-> *"Every great driver knows their machine. Every great dev knows their hardware."* 🔧
+> *"When I'm not coding APIs, I'm wiring circuits."* 🔌
 
 <div align="center">
 
@@ -82,19 +87,6 @@
 | 🟢 Arduino | Sensors, prototyping, automation |
 | 🔴 ESP32 | WiFi-connected IoT projects |
 | 🍓 Raspberry Pi | Mini servers, home automation |
-
-</div>
-
----
-
-### 📊 Race Stats — GitHub
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=E8B84B&icon_color=E8B84B"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=E8B84B"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&theme=tokyonight&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,12 +107,17 @@
 
 <div align="center">
 
-```
-  My code hits production the same way Takumi
-  takes the downhill — fast, clean, no mistakes. 🚗💨
-```
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=CE1126&center=true&vCenter=true&multiline=true&width=620&height=30&lines=My+code+hits+production+the+same+way" alt="line1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=555555&center=true&vCenter=true&multiline=true&width=620&height=30&lines=Takumi+takes+the+downhill" alt="line2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&pause=99999&color=002B7F&center=true&vCenter=true&multiline=true&width=620&height=30&lines=fast%2C+clean%2C+no+mistakes.+%F0%9F%9A%97%F0%9F%92%A8" alt="line3"/>
 
-*Thanks for visiting — Pura Vida! 🇨🇷*
+<br/>
+
+*Thanks for visiting — Pura Vida!*
+
+<br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1280px-Flag_of_Costa_Rica.svg.png" width="480" alt="Bandera de Costa Rica 🇨🇷"/>
 
 </div>
 
