@@ -1,120 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B7F,50:FFFFFF,100:CE1126&height=200&section=header&text=Sebastian%20%7C%20sebas2203&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%F0%9F%87%A8%F0%9F%87%B7%20Costa%20Rica&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=002B7F&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Building+robust+APIs+%26+server+architecture;Node.js+%2B+Python+%7C+Where+logic+lives;Also+making+hardware+do+cool+things+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-### `{ about: me }`
-
-```yaml
-name:      Sebastian
-alias:     sebas2203
-role:      Backend Developer
-location:  🇨🇷 Costa Rica
-languages: ["Node.js", "Python"]
-focus:
-  - REST APIs & Microservices
-  - Server Architecture
-  - Automation & Scripting
-hobbies:
-  - ⚡ Arduino & ESP32
-  - 🍓 Raspberry Pi
-  - 🔌 Electronics & IoT
-currently: "Turning coffee into
-            backend logic ☕→💻"
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                            ▓
+▓   ██████╗ ██████╗  ██╗   ██╗ ████████╗ ███████╗           ▓
+▓   ██╔══██╗██╔══██╗ ██║   ██║ ╚══██╔══╝ ██╔════╝           ▓
+▓   ██████╔╝██████╔╝ ██║   ██║    ██║    █████╗             ▓
+▓   ██╔══██╗██╔══██╗ ██║   ██║    ██║    ██╔══╝             ▓
+▓   ██████╔╝██║  ██║ ╚██████╔╝    ██║    ███████╗           ▓
+▓   ╚═════╝ ╚═╝  ╚═╝  ╚═════╝     ╚═╝    ╚══════╝           ▓
+▓                                                            ▓
+▓          [ SEBAS2203 ] :: BACKEND DEVELOPER                ▓
+▓          [ LOCATION  ] :: COSTA RICA  🇨🇷                  ▓
+▓          [ STATUS    ] :: ONLINE ●                         ▓
+▓                                                            ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-<br clear="right"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=620&lines=%3E+Initializing+sebas2203.exe...;%3E+Loading+backend+modules...+%5BOK%5D;%3E+Node.js+%2B+Python+detected...+%5BOK%5D;%3E+Costa+Rica+timezone+synced...+%5BOK%5D;%3E+Arduino+%2F+ESP32+%2F+RPi+online...+%5BOK%5D;%3E+Ready+to+deploy+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend & Languages**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks**
-
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12"/>
 
 </div>
-
----
-
-## ⚡ Hardware & IoT Hobbies
-
-> *When the server goes down, I build something physical* 🔧
-
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-*Blending software and hardware — because why not control the physical world too?*
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&border_color=002B7F&title_color=002B7F&icon_color=CE1126&text_color=333333"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&theme=default&hide_border=false&border_color=002B7F&title_color=002B7F&text_color=333333"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&theme=default&hide_border=false&border=002B7F&ring=CE1126&fire=CE1126&currStreakLabel=002B7F&sideLabels=002B7F)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-181717?style=for-the-badge&logo=github)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=002B7F&style=flat-square)
+<!-- ═══════════════ ABOUT ═══════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  C:\Users\sebas2203> cat profile.txt                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME     ::  Sebastian                                      ║
+║  HANDLE   ::  sebas2203                                      ║
+║  ROLE     ::  Backend Developer                              ║
+║  ORIGIN   ::  Costa Rica 🇨🇷                                 ║
+║  MISSION  ::  Build APIs that never crash                    ║
+║  FUEL     ::  ☕ Coffee.exe                                  ║
+║                                                              ║
+║  HOBBIES  ::  ⚡ Microcontrollers & Electronics              ║
+║               🤖 Arduino — ESP32 — Raspberry Pi             ║
+║               🔌 Making hardware obey software               ║
+║                                                              ║
+║  QUOTE    ::  "The best backend is the one                   ║
+║                nobody knows exists."                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│   >> TECH_STACK.exe  [LOADING... ████]  │
+└─────────────────────────────────────────┘
+```
+
+**[ BACKEND ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**[ DATABASE ]**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**[ DEVOPS ]**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**[ HARDWARE / IoT ]**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1126,50:FFFFFF,100:002B7F&height=120&section=footer&animation=fadeIn" />
+<!-- ═══════════════ HARDWARE ═══════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  >> HOBBY_MODE.exe — Hardware Lab 🔧                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [■■■■■■■■■■] Arduino       — Prototyping & sensors         ║
+║  [■■■■■■■■░░] ESP32          — WiFi + IoT projects          ║
+║  [■■■■■■░░░░] Raspberry Pi   — Mini servers & automation    ║
+║                                                              ║
+║  → When the code compiles, I solder something.              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+
+<div align="center">
+
+```
+┌───────────────────────────────────┐
+│   >> GITHUB_STATS.exe             │
+└───────────────────────────────────┘
+```
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000033&title_color=00FFFF&icon_color=00FFFF&text_color=AAAAFF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true&bg_color=000033&title_color=00FFFF&text_color=AAAAFF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&theme=ocean-gradient&hide_border=true&background=000033&ring=00FFFF&fire=FF6600&currStreakLabel=00FFFF&sideLabels=AAAAFF&dates=AAAAFF)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  >> NETWORK.exe — Connecting...                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [ GitHub  ]  →  github.com/sebas2203                       ║
+║  [ LinkedIn]  →  linkedin.com/in/sebas2203                  ║
+║                                                              ║
+║  ping sebas2203 — response time: fast ⚡                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-00FFFF?style=flat-square&logo=github&logoColor=white&labelColor=000033)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=000033)](https://linkedin.com/in/sebas2203)
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=00FFFF&labelColor=000033&style=flat-square&label=visitors)
+
+```
+[ SYSTEM UPTIME: sebas2203 still online 🇨🇷 — Costa Rica ]
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,50:0000CD,100:000080&height=12&section=footer"/>
+
+</div>
+
+
+
 <!--
 <h1>
   Hi, I'm Sebas
