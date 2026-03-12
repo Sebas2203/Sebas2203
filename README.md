@@ -1,58 +1,107 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1126,35:CE1126,50:FFFFFF,65:002B7F,100:002B7F&height=280&section=header&text=Hey!%20Soy%20Sebastian%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=sebas2203%20%7C%20Backend%20Developer%20%7C%20Costa%20Rica%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=60&descSize=19&animation=fadeIn"/>
+<div align="center">
 
-Soy desarrollador backend con pasión por construir sistemas que funcionen bien, escalen bien y no exploten en producción. 🚀
+<!-- HEADER: Bandera CR + nombre sobre imagen -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:CE1126,30:CE1126,45:FFFFFF,55:FFFFFF,70:002B7F,100:002B7F&height=250&section=header&text=Sebastian&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=sebas2203%20%7C%20Backend%20Developer%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=65&descSize=20&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
-Me mueve la curiosidad — tanto por el software como por el hardware. Cuando no estoy escribiendo APIs, probablemente estoy soldando algo o programando un microcontrolador a las 11pm.
+<br/>
 
-> ☕ Powered by coffee. Deployed from Costa Rica.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=19&pause=900&color=CE1126&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%F0%9F%96%A5%EF%B8%8F;Building+backends+that+just+work+%E2%9C%85;Node.js+%7C+Python+%7C+APIs;Also+into+Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
 
----
-
-### Tecnologías que uso
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+</div>
 
 ---
 
-### ⚡ Hobby: Hardware & IoT
+### 🖥️ About Me
 
-Además del código, me apasiona hacer que el mundo físico y el digital se hablen. Trabajo con microcontroladores y sistemas embebidos como hobby — desde sensores hasta automatizaciones caseras.
+```json
+{
+  "name": "Sebastian",
+  "alias": "sebas2203",
+  "role": "Backend Developer",
+  "location": "Costa Rica 🇨🇷",
+  "languages": ["Node.js", "Python"],
+  "passionate_about": ["APIs", "Server Architecture", "Clean Code"],
+  "hobbies": ["⚡ Arduino", "📡 ESP32", "🍓 Raspberry Pi", "🔌 IoT & Electronics"],
+  "fuel": "☕ Coffee",
+  "quote": "Like a Windows XP boot — reliable, fast, and gets the job done.",
+  "status": "Building cool server-side stuff 🚀"
+}
+```
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://espressif.com)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://raspberrypi.org)
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### ⚡ Hardware & IoT — My Hobby Lab
+
+<div align="center">
+
+> *"When I'm not coding APIs, I'm wiring circuits."* 🔌
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+| Device | What I do with it |
+|--------|-------------------|
+| 🟢 Arduino | Sensors, prototyping, automation |
+| 🔴 ESP32 | WiFi-connected IoT projects |
+| 🍓 Raspberry Pi | Mini servers, home automation |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&hide_border=true&title_color=CE1126&icon_color=002B7F&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&hide_border=true&title_color=CE1126&text_color=333333&bg_color=ffffff"/>
-</p>
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=ffffff&ring=CE1126&fire=FF6B00&currStreakLabel=CE1126&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebas2203&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=CE1126&icon_color=002B7F&text_color=333333&bg_color=FFF5F5"/>
 
----
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas2203&layout=compact&langs_count=6&hide_border=true&title_color=CE1126&text_color=333333&bg_color=FFF5F5"/>
 
-### Encuéntrame en
+[![GitHub Streak](https://streak-stats.demolab.com?user=sebas2203&hide_border=true&background=FFF5F5&ring=CE1126&fire=FF6B00&currStreakLabel=CE1126&sideLabels=555555&dates=555555)](https://git.io/streak-stats)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/sebas2203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/sebas2203)
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B7F,50:FFFFFF,100:CE1126&height=130&section=footer&animation=fadeIn"/>
+### 📬 Find Me
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sebas2203-CE1126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas2203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-002B7F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas2203)
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sebas2203.sebas2203&color=CE1126&style=for-the-badge&label=👀+visitors)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B7F,50:FFFFFF,100:CE1126&height=120&section=footer&animation=fadeIn"/>
+</div>
 
 <!--
 <h1>
