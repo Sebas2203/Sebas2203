@@ -1,3 +1,76 @@
+<h1>
+  Hi, I'm Sebas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+Software Engineer focused on backend development and building reliable systems.
+
+I enjoy understanding how systems work under the hood — from backend architectures and databases to hardware projects with microcontrollers.  
+Outside of programming, I'm passionate about **cars, photography, and electronics**.
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Hardware / Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 🧠 Interests
+
+- Backend Engineering
+- Databases and Data Systems
+- System Design
+- Data Engineering
+- Embedded Systems & Hardware Projects
+
+---
+
+## 📚 Currently Learning
+
+- Backend architecture and scalable systems
+- Advanced SQL and database design
+- System design fundamentals
+- Data pipelines and data engineering concepts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌎 Connect With Me
+
+LinkedIn: **(pon aquí tu link)**  
+Email: **(pon aquí tu email)**  
+
+Portfolio and blog coming soon.
+
+
+
+
+
+
+<!--
 <h1 align="center">Hola, soy Sebastián Mora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
