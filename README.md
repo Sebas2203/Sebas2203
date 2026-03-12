@@ -4,7 +4,9 @@
 
 **Backend Developer · Costa Rica 🇨🇷 · sebas2203**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+%26+Full+Throttle+%F0%9F%8F%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&pause=900&color=CE1126&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Code+that+hits+production+clean+%F0%9F%9A%97%F0%9F%92%A8;Node.js+%7C+Python+%7C+APIs;Hardware+%26+IoT+on+the+side+%F0%9F%94%A7;Pura+Vida+desde+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="480" alt="Initial D RX-7"/>
 
 </div>
 
@@ -43,7 +45,11 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
     "📡 ESP32",
     "🍓 Raspberry Pi",
     "🔌 IoT & Electronics"
-  ]
+  ],
+  "favorite_anime": "Initial D 🚗💨",
+  "dream_car": "Subaru Impreza GC8 🫶",
+  "fuel": "☕ Coffee + eurobeat",
+  "status": "Pushing code like Takumi pushes the AE86 downhill 🏁"
 }
 ```
 
@@ -140,9 +146,9 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-> 🚧 *Próximamente — estoy construyendo mis primeros proyectos de portfolio.*
+> 🚧 *Coming soon — building my first portfolio projects.*
 
 ---
 
@@ -168,7 +174,6 @@ I believe a good engineer doesn't just know how to code, but understands *why* t
 *Thanks for visiting — Pura Vida!*
 *I am always open to new opportunities and collaborations. 🚀*
 [Sebastian Mora©](https://github.com/Sebas2203)
-
 
 <br/>
 
