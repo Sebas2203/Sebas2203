@@ -137,10 +137,19 @@ Backend developer focused on building clean APIs, robust systems, and architectu
 </div>
 
 ---
-
 ## 📌 Featured Projects
 
-> 🚧 *Coming soon — building my first portfolio projects.*
+| Project | Description | Status |
+|---------|-------------|--------|
+| [🛡️ SGP - Permission Management System](https://github.com/Sebas2203/SGP) | Web system for managing business permissions | 🚧 In progress |
+
+---
+
+### 🔭 What I'm currently working on
+
+- 🖥️ **Backend** — REST APIs, authentication, databases
+- 📊 **Data Analysis** — exploring tools and data visualization
+- 🔌 **Microcontrollers** — hardware and electronics projects
 
 ---
 
